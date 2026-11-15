@@ -1,0 +1,7 @@
+gap_type,papers,gaps,observed,top_ilos
+mental-model,4,4,4,MM03 (2); MM01 (2); CS02 (2); CS04b (1); MM05 (1)
+verification,22,22,18,CS04a (22); EPR07 (16); MM03 (5); MM08 (2); CS05 (1)
+over-reliance,17,17,11,EPR08 (16); CS04a (8); CS05 (3); CS06 (2); MM06 (2)
+prompting,20,20,20,CS07 (20); CS02 (2); MM05 (1); CS04a (1)
+ethics-integrity,2,2,2,EPR14 (1); EPR11 (1); EPR10 (1); EPR05 (1)
+other,3,3,3,CS04a (2); CS06 (2); MM03 (1); EPR12 (1); CS07 (1)

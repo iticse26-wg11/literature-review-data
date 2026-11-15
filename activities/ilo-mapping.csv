@@ -1,0 +1,163 @@
+paper_id,ilo,role,evidence
+C2-0926,CS04a,develops,Pairs check ChatGPT's SQL against their own query and record syntactic and semantic errors.
+C2-0926,CS07,requires,Students phrase prompts with schema and question; prompting technique not taught.
+C2-0926,MM03,develops,Students deliberately force ChatGPT errors and categorise failure causes.
+C4B1-0232,CS04a,develops,Quiz where students pick the intended suggestion over flawed LLM-generated distractors line by line
+C4B1-0634,CS04a,requires,Students check reliability and paraphrase AI answers as their own strategy; not taught explicitly.
+C4B1-0634,CS07,develops,Lesson 1 teaches prompt writing and context setting; students refine prompts across lessons.
+C4B1-1258,EPR07,develops,Write ground-truth test questions and score chatbot answers on recall relevance and reliability against teacher scores.
+C4B1-1258,MM03,develops,Discover that RAG chatbot answers are often unreliable or hallucinated and discuss it in class.
+C4F1-0155,CS04a,develops,Students must spot insecure suggestions unprompted; debrief report explains the vulnerable code sections.
+C4F1-0155,MM03,develops,Debrief explains why plausible working LLM output can be insecure.
+C4F1-0427,CS07,develops,Tutor gives rubric-based feedback and alternative prompts on clarity context constraints during lab tasks
+C4F1-0443,CS04a,develops,"Rate and critique Copilot code, review ChatGPT peer-review of it, then improve code"
+C4F1-0443,CS07,requires,Sorting task written exclusively with GenAI; prompt quality assessed but not taught
+C4F1-0508,CS04a,requires,Groups judge whether generated game code meets requirements and debug it
+C4F1-0508,CS07,requires,Groups iterate prompts to get an LLM to build a modified game; no separate prompting instruction
+C4F1-0511,CS04a,develops,Pairs critique AI output against lecture material and post critique and reflection on Padlet with instructor discussion.
+C4F1-0511,MM03,develops,AI framed as fallible collaborator; students reminded outputs may be wrong and discuss limitations of AI explanations.
+C4F1-0526,CS04a,develops,"Verify AI output via unit and mutation tests, oral code walks"
+C4F1-0526,CS07,develops,Prompt-literacy checkpoints shifting prompts toward goal- and constraint-oriented form
+C4F1-0526,EPR11,develops,Keep AI-usage logs and explain-before-generate norm to document AI use
+FS-0817,CS04a,develops,Questionnaires on completion correctness and debriefs; students report being more likely to critically evaluate output.
+FS-0817,MM03,develops,With and without Copilot experiments and discussion surface accuracy problems and limitations of AI coding assistants.
+FS-0820,CS04a,develops,Peer critique of wrong AI outputs and homework documenting AI failures or corrections.
+FS-0820,CS07,develops,Pre-lab on prompting strategies and lab practice guiding AI to a correct solution; students refine prompts.
+FS-0820,MM03,develops,Lab topics chosen to expose AI limitations; pre-lab covers fundamental AI concepts and failure modes.
+FS-0820,MM06,develops,Structured discussion on appropriate and ethical use of AI; reflection on when not to use it.
+FS-1370,CS07,develops,Scaffolded construction of six-component pedagogical prompts with AI feedback and deliberate practice
+FS-1409,CS07,requires,Students revise explanations iteratively until LLM-generated code passes tests; no prompting instruction
+FW-052,CS04a,develops,Five output verification assignments; teacher models fact-checking against credible sources (Write-Curate-Verify)
+FW-052,CS07,develops,Scaffolded instruction and guided practice writing prompts with CLEAR framework and refining them
+FW-069,CS04a,requires,Human approval step needs students to validate LLM outputs; no verification teaching shown.
+FW-069,CS06,develops,Students build an automated LLM workflow with a human-in-the-loop approval step.
+FW-069,CS07,requires,Students write prompts for LLM nodes in the workflow; no prompting instruction shown.
+FW-136,CS04a,requires,Must understand every line of AI-generated code; checked by closed-book quizzes but no verification teaching shown.
+FW-136,EPR11,requires,Disclaimer in each source file declaring share of AI-generated code and understanding; no instruction on responsible use.
+N0232,CS04a,requires,Students must judge and synthesise LLM output rather than copy it; not taught directly
+N0232,CS07,develops,"Four-week prompt-engineering curriculum (chain-of-thought, few-shot, role) then iterative prompting inside quizzes"
+N0296,CS04a,develops,Students classify bugs in LLM snippets and propose QA testing and review detection.
+N0296,MM03,develops,Bug taxonomy explained by probabilistic token prediction and hallucination.
+N0296,MM06,develops,Students recommend whether to scale up restrict or suspend LLM adoption.
+N0357,CS04a,requires,Students must judge and fix generated code quality; no guidance on verification given
+N0357,CS05,requires,Students decide which tasks to give GenAI; effective use needed small specific tasks
+N0357,CS07,requires,Students prompt tools throughout project with no explicit guidelines on how
+N0357,MM06,develops,Milestone reports analyse advantages and disadvantages of tools for each purpose
+N0369,CS02,develops,Lecture on temperature and top-p; students tune parameters and observe output variability
+N0369,CS07,develops,Students craft and iterate system and riddle prompts using zero-/few-shot and chain-of-thought techniques
+N0369,MM01,develops,Lecture explaining simplified how LLMs work before students build the LLM-driven game
+N0373,CS02,develops,Discussion of variability of responses and prompt behaviour during live demos.
+N0373,CS04a,develops,Verification activity: checking LLM code with assertions and tracing.
+N0373,CS07,develops,Prompt engineering activity: Safe Bet or Monkey's Paw game predicting and improving prompts.
+N0373,MM03,develops,Introductory activity on what LLMs are and what they can and cannot do.
+R0225,CS07,develops,Write and revise prompts from visual task descriptions until generated code passes tests.
+R0435,CS04a,develops,Students evaluate AI code critically and identify weaknesses.
+R0435,CS07,develops,All code produced by prompting under query limits; students refine prompt formulations and explain reasoning to the AI.
+R0456,CS04a,develops,Check chatbot replies for plausibility and correctness and annotate the results.
+R0456,CS07,develops,Re-prompt a second or third time when the answer was insufficient.
+R0456,MM03,develops,Varied inputs including flawed code expose where ChatGPT fails; students critically reflect.
+R0656,CS07,develops,"Write, test and refine prompts until LLM-generated code passes hidden tests, with hints and reflection"
+R0684,CS04a,develops,Apply lite software verification and code review to LLM-generated code (proposed).
+R0684,CS07,develops,Judge prompt thoroughness in the Safe Bet or Monkey's Paw game then repair prompts (proposed not delivered).
+R0684,MM03,develops,Predict literal-minded LLM behaviour from prompts to learn what LLMs can and cannot do (proposed).
+R0691,CS07,develops,Students write natural-language prompts for a problem and resubmit until generated code passes unit tests
+R0697,CS07,develops,Students write descriptions as prompts to code generator and evaluate resulting code against intent
+R0773,CS04a,develops,Students analyse Copilot-generated code against quality criteria and refactor with justification.
+R0773,MM08,develops,Students have ChatGPT review the same code then compare and critique the two analyses.
+R0842,CS02,develops,Learning goal to define nondeterminism LLM prompt; Copilot interactions shown live in lectures.
+R0842,CS04a,develops,Identify errors in incorrect Copilot responses or write test cases that expose the mistake.
+R0842,CS05,develops,Decompose large problems into small functions solvable by an LLM; taught and practised.
+R0842,CS07,develops,Apply prompt engineering to influence Copilot-generated code in labs and projects.
+R0847,EPR05,develops,Report harms of biased generative output after video and reading on algorithmic bias
+R0847,MM03,develops,"Generate images with text-to-image models and report observed biases, causes and harms"
+R0865,CS07,develops,Students write and refine plain-English prompts until GPT-3.5 code passes tests; feedback shown
+R0870,CS04a,develops,Students flag ChatGPT errors and judge answers on accuracy relevance and comprehensiveness.
+R0870,CS07,develops,Taught specific context request and goal prompting with persona pattern.
+R0870,MM03,develops,Pair tasks push ChatGPT to fail so students see its fallibility.
+R0974,CS04a,develops,Techniques force students to trace predict verify and explain AI-generated code before using it
+R0985,CS07,requires,Teams write own prompts to have ChatGPT refine user stories; no prompting instruction
+R1034,CS04a,requires,Students review ChatGPT-generated code against a checklist; GenAI-specific review skill assumed
+R1034,CS07,requires,Students prompt ChatGPT to create initial code for the project; little prompting instruction given
+R1058,CS04a,develops,Template makes students compare two generated implementations and justify the chosen one.
+R1058,CS07,requires,Students write prompts and ask for alternatives without prompt training.
+R1078,CS07,develops,Weekly labs where students write prompts for EiPE and Prompt Problem tasks and iterate with test feedback.
+R1100,CS07,develops,Students write native-language prompts for Prompt Problems and revise until generated code passes tests.
+R1176,CS04a,develops,Training demonstrates critically reviewing and testing generated code before using it
+R1176,CS07,develops,20-minute training and lab guide with sample prompts for effective prompt writing in ChatGPT
+R1269,CS04a,develops,"Compare own letter with ChatGPT version, decide what to keep, discuss repetitive output in feedback session"
+R1269,EPR11,develops,Seminar discussion on ethical awareness and how to reference ChatGPT and disclose its use
+R1354,CS04a,develops,Students compare ChatGPT answers with own and teacher solutions and reflect that verification is crucial.
+R1354,CS07,develops,Lab covers prompt engineering basics before students re-solve problems with ChatGPT.
+R1354,MM03,develops,Training lab explains how LLMs work and their limitations; tasks deliberately expose ChatGPT failures.
+R1429,CS05,requires,Students decompose the project goal into parts for themselves and the AI; no teaching of this is reported.
+R1429,CS07,develops,Prompt-problem homework then iterative prompting and refining of AI outputs to build an open-ended project.
+R1429,EPR11,develops,Submit full AI transcripts and documentation of AI use; reflect on authorship and copyright of the result.
+R1429,MM03,develops,Written reflection on what the AI did versus the student and the potentials and limitations of AI.
+R1509,CS04a,develops,Compare AI and manual UML diagrams and tests; debug and verify AI output; assessed on handling errors.
+R1509,CS07,develops,Lecture on zero-shot few-shot and chain-of-thought prompting then iterative refinement of outputs in project work.
+R1509,MM03,develops,Course-long discussion of hallucinations bias and reliability plus a lecture on whether GenAI is a silver bullet.
+R1610,CS02,develops,Sampling at temperature 0.8 shows rerunning a prompt gives different results; success needs robust prompts
+R1610,CS07,develops,Students iterate on purpose statements used as zero-shot prompts until generated code passes hidden tests
+R1755,CS04a,develops,Students taught how to test and read AI-generated code.
+R1755,CS06,develops,IDEE framework has students determine the level of automation for a task.
+R1755,CS07,develops,Taught prompt engineering and priming; students iterate prompt-test-reprompt in assignments.
+R1755,MM01,develops,Course lessons on how LLMs function.
+R1755,MM03,develops,Instruction on LLM limitations such as hallucinations.
+R1803,CS04a,develops,Students judge and edit AI-generated code and explain their reasoning.
+R1803,CS05,requires,Exercises need problem decomposition before prompting; not taught separately.
+R1803,CS07,develops,Query and length caps force concise purposeful prompts across several LLMs.
+R1850,CS04a,requires,Python tasks need checking ChatGPT code; students expected to verify but many accepted first snippet
+R1850,CS07,develops,Workshop teaches CLEAR prompt framework with hands-on practice before further Python exercises
+R1850,MM03,develops,AI literacy workshop covers how LLMs function and their technical limitations and ethical implications
+R1863,CS04a,requires,"Students assess, edit or reject ChatGPT requirements; written reflection on pros and cons"
+R1863,CS07,requires,Students prompt and refine ChatGPT requirements with no prompting training
+R1863,MM03,develops,Required written reflection on advantages and disadvantages of ChatGPT for requirements work
+R1897,CS01,develops,Students compare Copilot and Gemini and choose tools by purpose in final course
+R1897,CS04a,develops,Exercises and rubric reward critically analysing and revising Copilot suggestions rather than accepting them
+R2182,CS04a,develops,"Decide whether generated code is ready to run, with execution counter and capped messages"
+R2182,CS07,develops,Multi-turn chat refinement of prompts to produce C functions matching visual specifications
+R2287,CS04a,develops,Students flag faulty GenAI output and debug GenAI and peer code; edit rather than copy
+R2287,CS07,develops,Prompt-engineering phase with plan-monitor-reflect cycle and prompt-quality feedback; vague prompts refined to specific
+R2292,CS04a,requires,Teams checked or constrained AI output such as rule conflicts and medical suggestions; self-directed
+R2292,CS07,requires,Teams used ChatGPT in an Agile project and reflected on prompting lessons; no formal instruction
+R2304,CS04a,requires,Students compare own and ChatGPT code on correctness and edge cases without any training provided.
+R2304,CS07,requires,Students iteratively prompt and refactor AI code (shopping cart task) with no prompting instruction.
+R2304,EPR14,develops,Authorship dilemma scenario and journal prompts on credit and integrity.
+R2342,CS04a,develops,Critically evaluate AI design critiques and decide which suggestions to adopt adapt or reject; reflect on rejections.
+R2342,CS07,requires,Write prompts to get design critique from sample prompts; effective prompting beyond samples is not taught.
+R2358,CS01,requires,Teams chose among general LLMs and specialised diagramming or scheduling tools without taught selection criteria.
+R2358,CS04a,develops,Teams critically revise AI-generated project artefacts; reflection table and rubric criterion on critical AI use.
+R2358,CS07,requires,Teams prompt LLMs iteratively to produce deliverables; no prompting instruction described.
+R2376,CS04a,develops,Recurring demonstrations show students how AI assistants generate insecure code
+R2376,CS07,develops,Students taught to embed security requirements and review requests in prompts
+R2396,CS04a,develops,Teams prompt Copilot and find and justify real errors in its answers on requirements and modelling topics.
+R2396,CS07,develops,Students write prompts under time pressure and see how wording such as explain why biases responses.
+R2396,MM03,develops,Game goal to raise awareness of Copilot's limitations and issues in use.
+R2462,CS04a,develops,Lectures on interpreting and evaluating AI output and AI-assisted debugging; evaluate output in permitted assessments.
+R2462,CS07,develops,Lectures on prompt engineering and iterative refinement then GenAI use in group project and exam.
+R2570,CS04a,develops,Manual-first versus AI-first code smell analysis with guidance on validating ChatGPT output.
+R2570,EPR10,develops,Group discussion on attribution and accountability for AI in code review.
+R2575,CS04a,requires,Individual viva checks students understand generated code; no verification teaching described
+R2575,CS07,develops,Groups write and justify three best prompts guided by acceptable and unacceptable prompt examples
+R2575,EPR11,develops,Students submit prompts with reflective rationale documenting how GenAI was used
+R2607,CS04a,develops,"Half of marks for reflecting on completeness, bias, hallucination and references of AI result, validated by research"
+R2607,CS07,develops,Taught PREP & EDIT framework to design and iterate prompts
+R2607,EPR11,develops,"Declare and evidence GenAI use in both assessments, with AI drafts appended"
+R2607,MM02,develops,"Taught how generative AI works and evolved, ethics; not assessed"
+R3041,CS04a,develops,Seminar where students critically evaluate GenAI user stories against realism/risk/completeness criteria and reflect
+R3041,CS07,develops,Prompt-engineering seminar (role/style/context/examples) and co-creating user stories and acceptance tests with GenAI
+R3041,EPR11,develops,Groups document prompts and responses and reflect on GenAI use in each report; disclosure required
+R3101,CS07,requires,"Solve tasks only through prompts, iterating on AI code with no manual editing"
+R3101,MM03,develops,Tasks with built-in ambiguity expose AI limits; pre/post AI-literacy self-rating
+R3116,CS04a,develops,Instructors show incorrect Copilot responses and students identify issues; they read and test generated code.
+R3116,CS07,develops,Prompt engineering taught via textbook and Copilot-enabled questions and projects; students influence generated code through prompts.
+R3120,CS04a,develops,Review each AI-suggested line including deliberately flawed distractors and accept or reject before building the program.
+R3136,EPR08,develops,Reflection on reliance on GenAI and its effect on their own learning and goals.
+R3136,MM06,develops,Students compare their own process with and without GenAI in a scaffolded reflection and decide when not to rely on it.
+R3227,CS04a,develops,"SAALA stage 3: students test, find errors in and correct AI-generated code and document it"
+R3227,EPR11,develops,"Students name the GenAI platform, keep original AI output, document fixes and reflect on process"
+R3277,CS04a,develops,Pairs analyse LLM-refactored code for deficiencies before revising prompts; lecture stresses verifying results
+R3277,CS07,develops,Pairs build structured prompts after lecture on prompt design; run in ChatGPT-4o; revise prompts iteratively
+R3311,CS04a,develops,Explicit training in monitoring and verifying GenAI output against programming goals; debugging and validation coded
+R3311,CS07,develops,Trained to construct task-aligned prompts and revise them across weekly ChatGPT Java tasks
+R3311,EPR11,develops,"Ethics orientation on acceptable use, privacy, attribution; planned responsible-use practice"

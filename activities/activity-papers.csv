@@ -1,0 +1,72 @@
+record_id,year,title,doi,course,course_group,literacy_demand,develops,relies,gap_reported
+R0684,2024,CS1 with a Side of AI: Teaching Software Verification for Secure Code in the Era of Generative AI,10.1145/3626252.3630817,Intro-Programming,Introductory programming,developed,yes,no,no
+N0232,2026,Beyond the Veneer of Competence: How Structured Prompting Fosters Knowledge Transfer in LLM-Augmented Education,10.1145/3816713.3816741,General-CS,Other courses,developed,yes,no,yes
+N0296,2026,"When AI codes, Who tests? A teaching case on risk, quality, and governance in LLM-assisted software development",10.1016/j.jss.2026.112989,Software-Engineering,Software engineering,developed,yes,no,no
+N0357,2026,From Specifications to Implementation in the Gen-AI Era: Lessons from a Project-Based Software Engineering Course,10.1145/3797092,Software-Engineering,Software engineering,developed-and-required,yes,yes,no
+R3041,2026,Responsible Integration of Generative AI in Software Engineering Education,10.1109/rita.2026.3694480,Software-Engineering,Software engineering,developed-and-required,yes,yes,yes
+R3101,2026,Toward a new paradigm of AI-powered programming education through metacognition,10.17471/2499-4324/1457,Intro-Programming,Introductory programming,developed,yes,no,no
+R3116,2026,Evaluating CS1-LLM: Integrating LLMs and Examining Student Outcomes in an Introductory Computer Science Course,10.1145/3786228.3786234,Intro-Programming,Introductory programming,developed,yes,no,yes
+R3120,2026,One Line at a Time: Scaffolding Reflective Code Evaluation through Structured AI Assistance,10.1145/3786228.3786243,Intro-Programming,Introductory programming,developed,yes,no,yes
+R3136,2026,"A 'watch your replay videos' Reflection Assignment on Comparing Programming without versus with Generative AI: Learning about Programming, Critical AI Use and Limitations, and Reflection",10.1145/3770762.3772668,Software-Engineering,Software engineering,developed-and-required,yes,yes,yes
+R3227,2026,Balancing innovation and integrity in using generative AI for a new computer programming assignments approach,10.20448/jeelr.v13i1.8231,Intro-Programming,Introductory programming,developed-and-required,yes,yes,no
+R3277,2026,Evaluating the Effectiveness of AI Integration in Software Engineering Education,10.1145/3802825,Software-Engineering,Software engineering,developed,yes,no,yes
+R3311,2026,"An experimental study of structured generative AI integration to mitigate pedagogical, cognitive, and ethical barriers in programming education",10.3389/fcomp.2026.1789829,Intro-Programming,Introductory programming,developed,yes,no,yes
+N0369,2025,Empowering Computing Students with Large Language Models by Developing an Escape Room Game,10.1145/3708897,Software-Engineering,Software engineering,developed,yes,no,yes
+N0373,2025,Incorporating LLM Activities into Established CS1 Curriculum: An Experience Report,,Intro-Programming,Introductory programming,developed,yes,no,no
+R1354,2025,Effectiveness of Generative AI Tools in Computer Science and Engineering Education,10.1007/s40593-025-00525-2,General-CS,Other courses,developed-and-required,yes,yes,yes
+R1429,2025,Fostering Creativity: Student-Generative AI Teaming in an Open-Ended CS0 Assignment,10.1145/3641554.3701853,Intro-Programming,Introductory programming,developed-and-required,yes,yes,yes
+R1509,2025,Integrating AI Tools in Advanced Computer Science Curricula: A Case Study of Course Redesign,10.1145/3736181.3747130,Software-Engineering,Software engineering,developed,yes,no,no
+R1755,2025,"Unlocking Potential with Generative AI Instruction: Investigating Mid-level Software Development Student Perceptions, Behavior, and Adoption",10.1145/3641554.3701859,Software-Engineering,Software engineering,developed,yes,no,yes
+R1803,2025,AI in CS Education: Transformative Interventions and Research Frameworks,10.1007/978-3-031-94002-6_15,Intro-Programming,Introductory programming,developed,yes,no,no
+R1850,2025,Generative AI for Non-Techies: Empirical Insights into LLMs in Programming Education for Novice Non-STEM Learners,10.1007/978-3-031-98459-4_12,Intro-Programming,Introductory programming,developed-and-required,yes,yes,yes
+R1863,2025,"Hey, ChatGPT, look at my work : using conversational AI in requirements engineering education",10.14288/1.0450984,Software-Engineering,Software engineering,developed-and-required,yes,yes,yes
+R1897,2025,Preliminary Practices for Java Programming Tools and TDD Courses Utilizing Generative AI and Online Education,10.52731/liir.v006.388,Software-Engineering,Software engineering,developed-and-required,yes,yes,no
+R2182,2025,Prompt Programming: A Platform for Dialogue-based Computational Problem Solving with Generative AI Models,10.1145/3724363.3729094,Intro-Programming,Introductory programming,developed,yes,no,no
+R2287,2025,Investigating the impact of generative AI integration on the sustenance of higher-order thinking skills and understanding of programming logic,10.1016/j.caeai.2025.100460,Intro-Programming,Introductory programming,developed,yes,no,yes
+R2292,2025,AI Literacy Through a Project-Based Learning Course,10.1109/swc65939.2025.00065,First-Year-Team-Project,Other courses,developed-and-required,yes,yes,no
+R2304,2025,"Beyond the Prompt: Student Strategies, Ethical Reflections, and Learning with ChatGPT in Computer Science",10.1007/s10758-025-09899-7,Intro-Programming,Introductory programming,developed-and-required,yes,yes,yes
+R2342,2025,Integrating AI Literacy in Programming Education: Enhancing Object-Oriented Design and Problem-Solving Skills,10.1109/iceed66794.2025.11400487,Intro-Programming,Introductory programming,developed-and-required,yes,yes,yes
+R2358,2025,Leveling Up Software Project Management Education: From Manual Mastery to AI Empowerment,10.1109/ubmk67458.2025.11206923,Software-Engineering,Software engineering,developed-and-required,yes,yes,yes
+R2376,2025,The Impact of Security Mindset on the Use of AI Assistants in Computing Education,10.1109/te.2025.3610340,General-CS,Other courses,developed-and-required,yes,yes,yes
+R2396,2025,Rethinking How to Teach Analysis and Modelling of Business Requirements: A Serious Game Integrating GenAI,10.1109/models-c68889.2025.00010,Software-Engineering,Software engineering,developed,yes,no,no
+R2462,2025,Permitting GenAI Use on Assessments in an Introductory Programming Course,10.1109/fie63693.2025.11328648,Intro-Programming,Introductory programming,developed,yes,no,no
+R2570,2025,BRIDGING Human Expertise and Generative AI in Software Quality: A Study on Code Smell Detection in Software Engineering Education,10.1109/tale66047.2025.11346609,Software-Engineering,Software engineering,developed,yes,no,no
+R2575,2025,Redefining Undergraduate Computing Education with GenAI-Facilitated Authentic In-Term Assessment,10.1109/tale66047.2025.11346650,Intro-Programming,Introductory programming,developed-and-required,yes,yes,no
+R2607,2025,The Summative Assessment of Generative AI Usage within Academic Writing in a Computing Foundation Year,10.1145/3772338.3772347,Academic-Writing,Other courses,developed,yes,no,no
+R0435,2024,Fostering Metacognitive Skills in Programming: Leveraging AI to Reflect on Code,,Intro-Programming,Introductory programming,developed,yes,no,no
+R0456,2024,Integration of Chatbots for Generating Code Into Introductory Programming Courses,,Intro-Programming,Introductory programming,developed,yes,no,no
+R0656,2024,Interactions with Prompt Problems: A New Way to Teach Programming with Large Language Models,10.48550/arxiv.2401.10759,Intro-Programming,Introductory programming,developed,yes,no,yes
+R0691,2024,Prompt Problems: A New Programming Exercise for the Generative AI Era,10.1145/3626252.3630909,Intro-Programming,Introductory programming,developed,yes,no,yes
+R0697,2024,Explaining Code with a Purpose: An Integrated Approach for Developing Code Comprehension and Prompting Skills,10.48550/arxiv.2403.06050,Intro-Programming,Introductory programming,developed,yes,no,no
+R0773,2024,Developing Critical Thinking Practices Interwoven with Generative AI Usage in an Introductory Programming Course,10.1109/educon60312.2024.10578746,Intro-Programming,Introductory programming,developed,yes,no,yes
+R0842,2024,CS1-LLM: Integrating LLMs into CS1 Instruction,10.1145/3649217.3653584,Intro-Programming,Introductory programming,developed,yes,no,yes
+R0847,2024,First Year CS Students Exploring And Identifying Biases and Social Injustices in Text-to-Image Generative AI,10.1145/3649217.3653596,Intro-Programming,Introductory programming,developed,yes,no,no
+R0865,2024,Prompting for Comprehension: Exploring the Intersection of Explain in Plain English Questions and Prompt Writing,10.1145/3657604.3662039,Intro-Programming,Introductory programming,developed,yes,no,no
+R0870,2024,AI-Lab: A Framework for Introducing Generative Artificial Intelligence Tools in Computer Programming Courses,10.1007/s42979-024-03074-y,Intro-Programming,Introductory programming,developed,yes,no,yes
+R0974,2024,Exploring the Design Space of Cognitive Engagement Techniques with AI-Generated Code for Enhanced Learning,10.48550/arxiv.2410.08922,Intro-Programming,Introductory programming,developed,yes,no,yes
+R0985,2024,Enhancing User Story Generation in Agile Software Development Through Open AI and Prompt Engineering,10.1109/fie61694.2024.10893343,Software-Engineering,Software engineering,required,no,yes,yes
+R1034,2024,Challenges and opportunities in using ChatGPT as a team member to promote code review education and self-regulated learning,10.14742/apubs.2024.1152,Software-Engineering,Software engineering,developed-and-required,yes,yes,yes
+R1078,2024,Integrating Natural Language Prompting Tasks in Introductory Programming Courses,10.1145/3649165.3690125,Intro-Programming,Introductory programming,developed,yes,no,yes
+R1100,2024,Breaking the Programming Language Barrier: Multilingual Prompting to Empower Non-Native English Learners,10.48550/arxiv.2412.12800,Intro-Programming,Introductory programming,developed,yes,no,no
+R0225,2023,Promptly: Using Prompt Problems to Teach Learners How to Effectively Utilize AI Code Generators,10.48550/arxiv.2307.16364,Intro-Programming,Introductory programming,developed,yes,no,yes
+R1058,2024,"""Give me the code"" -- Log Analysis of First-Year CS Students' Interactions With GPT",10.48550/arxiv.2411.17855,Intro-Programming,Introductory programming,developed-and-required,yes,yes,yes
+R1176,2025,AI in the classroom: Exploring students’ interaction with ChatGPT in programming learning,10.1007/s10639-025-13337-7,Intro-Programming,Introductory programming,developed,yes,no,yes
+R1610,2025,Porpoise: An LLM-Based Sandbox for Novices to Practice Writing Purpose Statements,10.1145/3758317.3759683,Intro-Programming,Introductory programming,developed,yes,no,no
+R1269,2025,CHATGPT – A CHALLENGING WRITING ASSISTANT FOR STUDENTS,,Non-CS,Other courses,developed-and-required,yes,yes,yes
+C2-0926,2025,A Critical Approach to ChatGPT: An Experience in SQL Learning,10.1145/3641554.3701932,Databases,Other courses,developed,yes,no,yes
+FW-136,2026,Ensuring Computer Science Learning in the AI Era: Open Generative AI Policies and Assignment-Driven Written Quizzes,10.48550/arxiv.2601.17024,General-CS,Other courses,required,no,yes,no
+FW-052,2026,Enhancing the effect of AI-assisted learning: the use of scaffolding strategies to develop students’ prompt engineering skills,10.1080/10494820.2026.2649547,Intro-Programming,Introductory programming,developed,yes,no,yes
+FW-069,2025,AI Augmented Software Engineering - A Case of Competency-Based Education and its Institutional Effectiveness,10.1109/itt69610.2025.11352914,Capstone-Project,Other courses,required,no,yes,no
+FS-1370,2025,Improving Student-AI Interaction Through Pedagogical Prompting: An Example in Computer Science Education,10.48550/arxiv.2506.19107,Intro-Programming,Introductory programming,developed,yes,no,yes
+FS-1409,2025,Exploring Student Reactions to LLM-Generated Feedback on Explain in Plain English Problems,10.1145/3641554.3701934,Intro-Programming,Introductory programming,required,no,yes,yes
+FS-0820,2025,Evaluating the AI-Lab Intervention: Impact on Student Perception and Use of Generative AI in Early Undergraduate Computer Science Courses,10.48550/arxiv.2505.00100,General-CS,Other courses,developed,yes,no,yes
+FS-0817,2026,Harnessing Hype to Teach Empirical Thinking: An Experience With AI Coding Assistants,10.48550/arxiv.2604.01110,Software-Engineering,Software engineering,developed,yes,no,yes
+C4B1-0232,2025,Fostering Responsible AI Use Through Negative Expertise: A Contextualized Autocompletion Quiz,10.1145/3724363.3729067,Intro-Programming,Introductory programming,developed,yes,no,yes
+C4B1-0634,2024,Benefits and Challenges of Collaboration between Students and Conversational Generative Artificial Intelligence in Programming Learning: An Empirical Case Study,10.3390/educsci14040433,Intro-Programming,Introductory programming,developed,yes,no,yes
+C4B1-1258,2024,Chatbot Development Using LangChain: A Case Study to Foster Critical Thinking and Creativity,10.1145/3649217.3653557,Databases,Other courses,developed,yes,no,yes
+C4F1-0155,2025,"Aware but Unprepared: Measuring the Security Awareness-Behavior Gap in Student Use of LLM-Generated Code with Bifr\""ost",10.48550/arxiv.2511.20878,Security,Other courses,developed-and-required,yes,yes,yes
+C4F1-0427,2026,Reflective Dialogue or Prompt Refinement? Effects of Tutor Scaffolding on Students’ Independent LLM Use for Programming,10.1007/978-3-032-29763-1_37,Robotics,Other courses,developed,yes,no,yes
+C4F1-0443,2025,Stimulating Critical Thinking in a Web Programming Module with Generative AI Tools,10.1109/educon62633.2025.11016298,Web-Development,Other courses,developed-and-required,yes,yes,yes
+C4F1-0508,2024,Twisted Games: A First Experience of Inclusion of AI tools in First Year Programming Classes,10.1109/la-cci62337.2024.10814750,Intro-Programming,Introductory programming,required,no,yes,yes
+C4F1-0511,2026,Understanding Critical Thinking Skills with Generative AI in a Transnational Education Setting,10.1109/educon67543.2026.11574197,Artificial-Intelligence,Other courses,developed,yes,no,yes
+C4F1-0526,2026,Verification-Centric ChatGPT-Integrated Pedagogy in Introductory Object-Oriented Programming,10.1007/978-3-032-24402-4_36,Intro-Programming,Introductory programming,developed,yes,no,no

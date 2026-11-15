@@ -1,0 +1,101 @@
+record_id,sources,doi,year,title,agent_verdict,human_verdict
+N0027,openalex;scopus,10.1080/10494820.2025.2487517,2025,Developing postgraduate students’ competencies in generative artificial intelligence for ethical integration into academic practices: a participatory action research,advance,advance
+R0922,openalex;scopus,10.3389/frai.2024.1436350,2024,Software engineering education in the era of conversational AI: current trends and future directions,advance,advance
+N0071,openalex,10.63468/jpsa.4.3.49,2026,Developing AI Literacy Through a Holistic Framework among Pakistani University Students,advance,advance
+R1047,openalex,10.48550/arxiv.2411.10687,2024,EDBooks: AI-Enhanced Interactive Narratives for Programming Education,exclude,exclude
+R0899,acm;openalex;scopus,10.1145/3632620.3671092,2024,Debugging with an AI Tutor: Investigating Novice Help-seeking Behaviors and Perceived Learning,exclude,advance
+N0098,openalex;scopus,10.1080/17439884.2026.2652638,2026,Metacognitive AI literacy: going beyond the AI skills gap agenda,advance,advance
+R1791,openalex;scopus,10.1007/978-3-031-94943-2_11,2025,"A Review of Generative AI in Computer Science Education: Challenges and Opportunities in Accuracy, Authenticity, and Assessment",exclude,advance
+R2688,openalex;scopus,10.1080/10494820.2025.2546630,2025,Analysis of factors influencing students’ adoption of generative AI as a programming learning resource,exclude,exclude
+N0139,openalex,10.21203/rs.3.rs-7122270/v1,2025,"Generative AI in English Sixth Form Education: Student Use, Perceptions, and Literacy Gaps",exclude,exclude
+R2508,openalex;scopus,10.1109/mlnlp66797.2025.11388325,2025,Deep Learning for Voice Recognition and Speech Synthesis,exclude,exclude
+N0295,scopus,,2026,"20th International Conference on Soft Computing Models in Industrial and Environmental Applications, SOCO 2025",exclude,exclude
+R3345,openalex,10.48550/arxiv.2604.10400,2026,Tracing Prompt-Level Trajectories to Understand Student Learning with AI in Programming Education,exclude,advance
+N0153,openalex;scopus,10.1177/21582440251377986,2025,Generative Artificial Intelligence Supported Programming Learning: Learning Effectiveness and Core Competence,advance,advance
+R2457,openalex;scopus,10.1109/fie63693.2025.11328633,2025,Decoding AI Impact: Longitudinal Analysis of Code Submissions in Programming MOOCs,exclude,exclude
+R2326,openalex;scopus,10.1007/978-3-032-03873-9_31,2025,Partnering with AI: A Pedagogical Feedback System for LLM Integration Into Programming Education,exclude,exclude
+R3145,acm;openalex;scopus,10.1145/3770762.3772551,2026,"Benchmarking AI Tools for Software Engineering Education: Insights into Design, Implementation, and Testing",exclude,exclude
+N0191,openalex,10.1007/978-3-032-29770-9_11,2026,Can LLMs Support Formative Assessment? LLM-Based and Teaching Assistant–Based Assessment in Programming Education,exclude,exclude
+R1053,openalex,10.58459/icce.2024.4954,2024,Designing an LLM-Based Dialogue Tutoring System for Novice Programming,exclude,exclude
+R3347,acm;openalex;scopus,10.1145/3772318.3791410,2026,FAIR: Framing AI’s Role in Programming Competitions — Understanding How LLMs Are Changing the Game in Competitive Programming,advance,exclude
+R2926,scopus,10.1145/3770761.3777219,2026,Teaching Students to Navigate Intellectual Property Ethics in AI-Assisted Development,advance,advance
+R2986,openalex,10.5445/ir/1000191756,2026,Criminal Minds: How First-Year CS Students Plagiarize Code,exclude,exclude
+R0291,openalex;scopus,10.1109/hnicem60674.2023.10589162,2023,Exploring Student Preference between AI-Powered ChatGPT and Human-Curated Stack Overflow in Resolving Programming Problems and Queries,exclude,advance
+R1623,scopus,,2025,Proceedings of the 6th ECSEE 2025 - European Conference on Software Engineering Education,exclude,exclude
+R2638,openalex,10.33394/jo-elt.v12i2.18032,2025,Indonesian Pre-Service EFL Teachers’ Perceptions and Expectations of Generative AI in Teacher Education: A Phenomenological Study,exclude,exclude
+R0153,openalex;scopus,10.48550/arxiv.2302.04662,2023,Generating High-Precision Feedback for Programming Syntax Errors using Large Language Models,exclude,exclude
+R3286,openalex,10.12681/icodl.8646,2026,Collective Intelligence through Multimodal Pedagogy: Lessons from Human–GenAI Co-Creation in Open and Distance Education,advance,advance
+R2538,openalex,10.5753/sbie.2025.12321,2025,CoderBot 2.0: Integrating LLM and Prompt Engineering in the Evolution of an Educational Chatbot,exclude,exclude
+R0318,acm;openalex;scopus,10.1145/3633083.3633220,2023,Personalised Programming Education with Knowledge Tracing,exclude,exclude
+R3195,openalex;scopus,10.4018/979-8-3373-6546-6.ch010,2026,Pedagogical Promise and Peril of AI,advance,advance
+R3445,openalex,10.5281/zenodo.20277550,2026,The Moura Test: Structural Persistence as a Criterion for Intelligence Evaluation Beyond the Turing Paradigm,exclude,exclude
+R2773,acm;scopus,10.1145/3770761.3777249,2026,Enlightening Pathways into Computing Broadening Computing Skills in Higher Education,advance,exclude
+R1280,scopus,,2025,Code Explanation Assessment Using LLMs and Analogical Reasoning on OIE Graphs,exclude,advance
+R0097,scopus,,2023,"Proceedings of the 25th Western Canadian Conference on Computing Education, WCCCE 2023",exclude,exclude
+R0045,scopus,10.1145/3587102.3588792,2023,Can Generative Pre-trained Transformers (GPT) Pass Assessments in Higher Education Programming Courses?,exclude,exclude
+R2167,acm;openalex;scopus,10.1145/3724389.3731282,2025,A Plan for an ACM Task Force Working Group into the Ethical and Societal Impacts of Generative AI in Higher Computing Education,advance,advance
+R3165,acm;openalex;scopus,10.1145/3770761.3777272,2026,"Executable Exams in the Era of Generative AI: Revisiting Taxonomy, Implementation, and Prospects",advance,exclude
+N0062,openalex;scopus,10.1016/j.nedt.2026.107108,2026,Beyond literacy to clinical competency: A framework for integrating generative AI into nursing education,exclude,advance
+R2338,openalex;scopus,10.1109/ieee-ch65308.2025.11279711,2025,Student Perceptions of Gamified and AI-Supported Web Programming Education,exclude,exclude
+R0425,scopus,10.1145/3613905.3650937,2024,Exploring How Multiple Levels of GPT-Generated Programming Hints Support or Disappoint Novices,exclude,exclude
+N0118,openalex,10.55606/jutiti.v6i1.7229,2026,Tinjauan Literatur: Dampak Dualistik Penggunaan ChatGPT terhadap Kemampuan Berpikir Kritis dan Keterampilan Membaca Akademik,exclude,exclude
+R2827,scopus,10.1109/southeastcon63549.2026.11476269,2026,Improving Gemini's Ability to Generate Syntactically Correct Mermaid Code,exclude,exclude
+R1439,acm;scopus,10.1145/3724389.3731291,2025,Gamification Powered by Large Language Models in Undergraduate Computer Science,exclude,exclude
+R0550,scopus,10.1145/3632621.3671429,2024,Using a Low-Code Environment to Teach Programming in the Era of LLMs,advance,exclude
+R1792,openalex,10.14456/jiist.2025.1,2025,A Study on AI-Driven Question Generation Using ChatGPT for Python Programming Education,exclude,exclude
+R3398,openalex,10.48550/arxiv.2606.07545,2026,Reshaping Undergraduate Computer Science Education in the Generative AI Era,advance,advance
+R0599,openalex;scopus,10.1007/978-3-031-60609-0_20,2024,Enhancing E-Learning Experience Through Embodied AI Tutors in Immersive Virtual Environments: A Multifaceted Approach for Personalized Educational Adaptation,exclude,exclude
+N0248,openalex,10.5281/zenodo.20954427,2026,Influence of Artificial Intelligence on Problem-Solving Ability and Confidence of Beginner Programmers,advance,advance
+R2122,openalex,10.22399/ijcesen.1846,2025,Comparative Analysis of GitHub Copilot and ChatGPT in Web Application Development: An Experimental Study,exclude,advance
+R0359,scopus,10.1145/3643795.3648379,2024,An Empirical Study on Usage and Perceptions of LLMs in a Software Engineering Project,exclude,advance
+R2523,openalex;scopus,10.1109/ase63991.2025.00338,2025,Simulated Interactive Debugging,advance,exclude
+R1845,openalex;scopus,10.1109/access.2025.3638372,2025,Fine-Tuned LLMs Versus Rule-Based NLP for UML Diagram Generation: An Educational Evaluation,exclude,exclude
+R3156,acm;openalex;scopus,10.1145/3770762.3772509,2026,DeliverC: Teaching Pointers through GenAI-Powered Game-Based Learning,exclude,advance
+N0001,openalex;scopus,10.1038/s41539-024-00264-4,2024,A systematic review of AI literacy scales,exclude,advance
+R0139,openalex;scopus,10.1007/978-3-031-44900-0_4,2023,Investigating the Role of ChatGPT in Supporting Text-Based Programming Education for Students and Teachers,advance,advance
+R3354,openalex,10.48550/arxiv.2604.13955,2026,Towards Personalizing Secure Programming Education with LLM-Injected Vulnerabilities,exclude,advance
+R3187,acm;openalex,10.1145/3770761.3777018,2026,LLMTutorBench: A Benchmark for University-level TCS AI Tutoring Systems,exclude,advance
+R1335,scopus,10.1109/cascon66301.2025.00038,2025,Detecting Explicit and Implicit Gender Bias in Software Engineering Education,exclude,exclude
+R1263,scopus,10.1109/iceta67772.2025.11280193,2025,Case study: Creating escape games in Python using AI assistants,advance,advance
+R3248,openalex;scopus,10.1007/s10639-026-13933-1,2026,Integrating AI-assisted formative evaluation into a full course: A case study in university-level programming education,exclude,advance
+R0790,openalex,10.18260/1-2--45758,2024,"ChatGPT in Computer Science Education: Exploring Benefits, Challenges, and Ethical Considerations",advance,advance
+R2582,openalex;scopus,10.1109/icaite68636.2025.11442392,2025,What Are They Asking? Analyzing Multilingual Student Questions to ChatGPT in Computer Science Education,advance,advance
+N0204,acm;openalex;scopus,10.1145/3736251.3747316,2025,Asynchronous Oral Proficiency Exams in a CS1 Course,exclude,exclude
+R2614,openalex;scopus,10.1109/cicn67655.2025.11368004,2025,AI-Powered Code Evaluation and Learning Assessment Platform,exclude,exclude
+R3440,openalex,10.5281/zenodo.20245553,2026,"Towers, Maps, and the Boundary of the Self: A Structuristics Account of Consciousness as the Limit of Self-Referential Recursion",exclude,exclude
+R2256,openalex;scopus,10.1007/s40979-025-00195-6,2025,From policy to practice: the regulation and implementation of generative AI in Swedish higher education institutes,exclude,advance
+R1538,scopus,10.1109/educon62633.2025.11016386,2025,Lessons for GenAI Literacy from a Field Study of Human-GenAI Augmentation in the Workplace,advance,advance
+R0772,openalex;scopus,10.1109/educon60312.2024.10578596,2024,Beyond the Hype: Perceptions and Realities of Using Large Language Models in Computer Science Education at an R1 University,exclude,advance
+R0659,openalex,10.48550/arxiv.2401.12453,2024,"""The teachers are confused as well"": A Multiple-Stakeholder Ethics Discussion on Large Language Models in Computing Education",advance,advance
+R1832,openalex;scopus,10.1007/978-981-96-9884-4_39,2025,Enhancing ChatGPT-4o’s Automated Programming Assignment Grading and Feedback with Human-in-the-Loop Refinement,exclude,exclude
+R0656,openalex,10.48550/arxiv.2401.10759,2024,Interactions with Prompt Problems: A New Way to Teach Programming with Large Language Models,advance,advance
+R2775,scopus,10.1016/j.caeai.2025.100526,2026,Evaluating adaptive and generative AI-based feedback and recommendations in a knowledge-graph-integrated programming learning system,exclude,exclude
+R0932,acm;openalex;scopus,10.1145/3689535.3689553,2024,Exploring Human-Centered Approaches in Generative AI and Introductory Programming Research: A Scoping Review,exclude,advance
+R2165,acm;openalex;scopus,10.1145/3708319.3733808,2025,From Feedback to Formative Guidance: Leveraging LLMs for Personalized Support in Programming Projects,exclude,advance
+R3435,acm;openalex,10.1145/3768310.3811553,2026,Reconceptualizing Assessment for Human–AI Synergy in Information Systems Education,advance,exclude
+R0508,scopus,10.1109/icalt61570.2024.00040,2024,Shaping Programming and Data Science Education: Insights from GenAI Technical Book Trends,advance,exclude
+N0079,openalex,10.4324/9781003511991-9,2025,Developing Educational Data Literacy,exclude,exclude
+R0004,scopus,10.1145/3501385.3543957,2022,Automatic Generation of Programming Exercises and Code Explanations Using Large Language Models,exclude,exclude
+R2384,openalex;scopus,10.1007/978-3-032-01377-4_3,2025,The Impact of Generative Artificial Intelligence Tools in Project-Based Learning,advance,advance
+R3124,acm;openalex;scopus,10.1145/3786228.3786244,2026,"""You're not learning"": A layered formative intervention to turn AI misuse into a learning opportunity",advance,advance
+N0186,openalex,,2026,Use of Generative AI in Software Engineering Examination Contexts,advance,advance
+R2561,openalex;scopus,10.3390/info16121045,2025,SP-TeachLLM: An LLM-Driven Framework for Personalized and Adaptive Programming Education,exclude,exclude
+R2071,openalex;scopus,10.1111/jcal.70043,2025,From Imitation Games to Robot‐Teachers: A Review and Discussion of the Role of <scp>LLMs</scp> in Computing Education,exclude,advance
+R1398,scopus,10.1145/3723010.3723021,2025,Evaluation of a Node-based Automatic Short Answer Tool “NodeGrade”,exclude,exclude
+R0192,openalex;scopus,10.23919/mipro57284.2023.10159727,2023,Pair Programming Education Aided by ChatGPT,advance,advance
+R1006,openalex;scopus,10.1109/ica-acca62622.2024.10766746,2024,Effectiveness of Generative Artificial Intelligence in learning programming to higher education students,advance,advance
+R2203,acm;openalex;scopus,10.1145/3696630.3731663,2025,``I Would Have Written My Code Differently': Beginners Struggle to Understand LLM-Generated Code,advance,advance
+R2235,acm;openalex;scopus,10.1145/3765325.3765345,2025,A Conceptual Framework for an LLM-Powered Multimodal Affective Tutoring System for Programming Education,exclude,advance
+R0311,openalex;scopus,10.48550/arxiv.2403.05538,2023,Explaining Code Examples in Introductory Programming Courses: LLM vs Humans,exclude,advance
+R2248,scopus,10.1145/3698205.3733932,2025,Bridging Gaps Between Student and Expert Evaluations of AI-Generated Programming Hints,advance,advance
+N0370,acm,10.1145/3540250.3569444,2022,"AI-assisted programming: applications, user experiences, and neuro-symbolic techniques (keynote)",advance,exclude
+R1841,openalex;scopus,10.5281/zenodo.17631596,2025,"Exploring the Use of ChatGPT by Computer Science Students in Software Development: Applications, Ethical Considerations, and Insights for Engineering Education",advance,advance
+R0357,scopus,10.1007/978-3-031-65522-7_30,2024,Advancing Learning Systems: Enhancing Explanation Generation Through AI Innovations,exclude,exclude
+R0946,openalex,10.62492/sefijeea.v1i1.20,2024,Exploring the Utilisation of Generative AI Tools by Undergraduate First-Year Mechanical Engineering Students in Programming Assessments.,exclude,advance
+R2180,openalex,10.51878/learning.v5i2.5352,2025,HUMAN-CHATGPT CO-CREATED SIMULATIONS: DROP-OFF ZONE KINEMATICS CASE STUDY,advance,exclude
+R3278,openalex,10.48550/arxiv.2603.17060,2026,"LLM Use, Cheating, and Academic Integrity in Software Engineering Education",exclude,advance
+N0050,openalex;scopus,10.1016/j.ijme.2025.101254,2025,From classroom to Boardroom: Ethical and cognitive challenges of ChatGPT use among DBA students in business problem-solving,exclude,advance
+R0768,openalex,10.48550/arxiv.2405.03734,2024,"FOKE: A Personalized and Explainable Education Framework Integrating Foundation Models, Knowledge Graphs, and Prompt Engineering",exclude,advance
+N0177,openalex,10.1007/978-3-032-29744-0_13,2026,An Explainable AI Assistant for Introductory Programming Education: Improving Feedback Reliability with Instructor-AI Collaboration,advance,exclude
+R1490,scopus,10.1007/978-3-031-71530-3_29,2025,Identifying AI Generated Code with Parallel KNN Weight Outlier Detection,exclude,exclude
+R0347,scopus,,2024,A Preliminary Analysis of Students’ Help Requests with an LLM-powered Chatbot when Completing CS1 Assignments,exclude,advance
