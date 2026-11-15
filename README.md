@@ -94,7 +94,7 @@ The criteria document uses IN1–IN4 and EX1–EX4. The report numbers them IC1�
 - `4-title-abstract-screen.csv`: `verdict` and `criterion` are the agent's; `maybe_verdict` is the review lead's ruling on a maybe; `final_decision` is the outcome; `abstract_source` says where the abstract came from; `tag` = `ext` marks 27 papers that an earlier title-only screen had excluded.
 - `5-read-and-tag.csv`: `ric_verdict` is the review lead's criteria check, `ft_verdict` the full-text ruling, `disposition` the result (`corpus`, `C4`, `excluded`, `duplicate`).
 - `6-snowball-set.csv`: `snowball` is the run that found the paper, `direction` backward or forward, `wg_review` what happened to it in the WG review.
-- `7-wg-review.csv`: one row per ticket; `criterion`, `reason` and `evidence` are the reviewer's own words.
+- `7-wg-review.csv`: one row per ticket; `reviewer` is given by role, and `criterion`, `reason` and `evidence` are the reviewer's own words.
 - `activities/fulltext-check.csv`: the coded answers for all 87 activity papers read in full, with `keep` (the agent's recommendation) and `ruling` (the review lead's decision).
 - `activities/ilo-mapping.csv`: one row per paper and ILO; `role` is `develops` or `requires`, `evidence` a quote from the paper.
 
